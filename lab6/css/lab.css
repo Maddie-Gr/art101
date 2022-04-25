@@ -1,0 +1,14 @@
+#content {
+  background-color: #808088;
+  width: 1300px;
+  min-height: 300px;
+  padding: 10px;
+  margin: 10px;
+  font-size: 20px;
+}
+
+img#prius{
+  display: block;
+  float: right;
+  width: 30%;
+}
