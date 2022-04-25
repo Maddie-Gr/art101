@@ -6,7 +6,7 @@
 
  //Define Variables
 
- myTransport = ["Prius ", "plane ", "rides from friends"];
+ myTransport = ["Prius ", " plane ", " rides from friends"];
 
  myMainRide = {
    make : "Prius",
