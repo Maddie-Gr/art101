@@ -1,0 +1,14 @@
+#content {
+  position: relative;
+  background-color: #808088;
+  width: 1300px;
+  height: 800px;
+  padding: 15px;
+  margin: 15px;
+  font-size: 20px;
+}
+
+#scriptOutput {
+  font-size:20px;
+  color: #000000;
+}
