@@ -27,6 +27,35 @@ console.log("exists")
     imgArray[5] = new Image();
     imgArray[5].src = './img/ppbeach.png';
 
+    imgArray[6] = new Image();
+    imgArray[6].src = './img/aboretum.png';
+
+    imgArray[7] = new Image();
+    imgArray[7].src = './img/blueLagoon.png';
+
+    imgArray[8] = new Image();
+    imgArray[8].src = './img/farmersMarket.png';
+
+    imgArray[9] = new Image();
+    imgArray[9].src = './img/train.png';
+
+    imgArray[10] = new Image();
+    imgArray[10].src = './img/rollerskating.png';
+
+    imgArray[11] = new Image();
+    imgArray[11].src = './img/bookstore.png';
+
+    imgArray[12] = new Image();
+    imgArray[12].src = './img/whaleWatching.png';
+
+    imgArray[13] = new Image();
+    imgArray[13].src = './img/survival.png';
+
+    imgArray[14] = new Image();
+    imgArray[14].src = './img/marineCenter.png';
+
+
+
     function nextImage(){
         var img = document.getElementById("fortune");
         for(var i = 0; i < imgArray.length;i++){
